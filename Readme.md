@@ -5,5 +5,6 @@ This repository contains open data files from the [Woolf Online](http://www.wool
 #### Contents
 * sql
 * txt
+  * editions
 * xml
   * generic
