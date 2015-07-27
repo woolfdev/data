@@ -3,5 +3,5 @@
 This directory contains txt files for the various editions from the [Woolf Online](http://www.woolfonline.com) project.
 
 * To The Lighthouse
-  * Initial Holograph Draft
-  * Other
+  * draft
+  * other
